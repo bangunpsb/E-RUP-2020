@@ -21,5 +21,5 @@ fitur :
 - edit profile
 - post proposal
 
-home website design sendiri dan udah responsive
+
 
